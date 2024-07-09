@@ -1,2 +1,2 @@
 # JogoPython
-A game in the making
+This is a place where i will store the diferent changes and improvments that ill be making to a game thatI am making for practicing reasons, this is for practicing purposes only, as I am a begginer thare will be a lot of problems and slow advances, I do not recomend using any lines of code thatis in this project, since it will not be optmized and it probably will have a bad performance, further more it is not recomended that you try to run this code, because, as said previusly, this is not for entertainment purposes nor a professional code.
